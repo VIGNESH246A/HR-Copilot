@@ -2,6 +2,8 @@
 
 An intelligent HR assistant powered by Claude AI that automates and streamlines your entire hiring workflow.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-copilot-2egdggstbugtejcanhzcnu.streamlit.app/)
+
 ## 🌟 Features
 
 ### Core Capabilities
