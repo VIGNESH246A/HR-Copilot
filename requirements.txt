@@ -1,0 +1,45 @@
+# Core Dependencies
+google-genai
+python-dotenv
+pydantic
+pydantic-settings
+
+# Web Framework
+streamlit
+streamlit-chat
+
+# Database
+sqlalchemy
+alembic
+
+# Document Processing
+PyPDF2
+python-docx
+pdfplumber
+
+# Email & Calendar (NO smtp package needed)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# NLP & Text Processing
+nltk
+
+# Utilities
+python-json-logger
+tqdm
+requests
+httpx
+
+# Data Validation
+email-validator
+phonenumbers
+
+# Date/Time
+python-dateutil
+pytz
+
+# Testing (Optional)
+pytest
+pytest-asyncio
+pytest-cov
